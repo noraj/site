@@ -721,3 +721,19 @@
     - hexo-tag-cloud
     - tag
     - cloud
+- name: hexo-renderer-sass
+  description: "A hexo plugin for node-sass"
+  link: https://github.com/knksmith57/hexo-renderer-sass
+  tags:
+    - renderer
+    - sass
+    - css
+    - style
+- name: hexo-renderer-scss
+  description: "A hexo plugin for node-scss"
+  link: https://github.com/o2team/hexo-renderer-scss
+  tags:
+    - renderer
+    - scss
+    - css
+    - style
